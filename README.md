@@ -48,4 +48,4 @@
 
 ## 协同 Skill
 
-用户点名的 [cheat-on-content](cheat-on-content/SKILL.md) 作为可选的内容校准 Skill 放在独立目录，不改变剪辑 Skill 的时间轴和渲染规则。它负责选题、评分、盲预测和发布后复盘；视频剪辑仍以根目录 [SKILL.md](SKILL.md) 为准。
+用户点名的 [cheat-on-content](cheat-on-content/SKILL.md) 作为可选的内容校准 Skill 放在独立目录，不改变剪辑 Skill 的时间轴和渲染规则。它负责选题、评分、盲预测和发布后复盘；视频剪辑仍以根目录 [SKILL.md](SKILL.md) 为准。该目录保留随附的许可证和上游说明，作为独立镜像使用，不会被根 Skill 自动加载。
