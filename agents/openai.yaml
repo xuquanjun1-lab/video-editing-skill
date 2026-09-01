@@ -1,0 +1,4 @@
+interface:
+  display_name: "爆款剪辑"
+  short_description: "为竖屏和横版口播制作高信息密度知识流特效预览与正式成片"
+  default_prompt: "Use $viral-video-editing to create a high-density knowledge-flow talking-head video preview."

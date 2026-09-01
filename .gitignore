@@ -1,0 +1,30 @@
+# Local media and render outputs
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.m4a
+*.qtrle
+preview/
+renders/
+
+# Transcription and model caches
+transcript-raw.json
+*.pyc
+__pycache__/
+.cache/
+.venv/
+
+# Local paths, credentials and editor state
+.env
+.env.*
+.auth/
+.auth-*/
+.cheat-secrets.json
+.claude/
+.vscode/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.log

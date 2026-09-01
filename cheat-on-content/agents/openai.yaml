@@ -1,0 +1,4 @@
+interface:
+  display_name: "爆款内容生成"
+  short_description: "将选题、打分、盲预测、发布与复盘串成可校准的内容增长闭环"
+  default_prompt: "使用 $cheat-on-content 帮我建立并运行可校准的爆款内容生成闭环。"

@@ -1,0 +1,10 @@
+﻿id,coverage,start,trigger,end,exitStart,position,type,keyword,note,sourceAnchor
+S01,talking_head_opening,0.230,1.690,3.870,3.650,topLeft,hook,最简单 · 最详细,先给结果，再进入实操,最简单、最详细的 Codex 安装教程
+S02,talking_head_opening,4.150,7.230,8.030,7.810,topRight,method,纯实操,不讲复杂原理，直接跟着做,就是纯实操
+S03,talking_head_opening,8.130,8.370,9.550,9.330,topLeft,action,手把手安装,Codex 从下载安装到可用,带你手把手安装 Codex
+S04,talking_head_opening,9.980,11.700,12.900,12.660,topRight,bridge,DeepSeek → Codex,把国产模型接进工作流,把国产模型 DeepSeek 接入 Codex
+S05,talking_head_opening,13.180,15.140,16.060,15.820,topLeft,transition,现在开始,下一帧切入录屏，画面保持原样,我们直接上实操
+E01,talking_head_ending,161.700,163.060,165.200,164.960,topLeft,result,Codex 已安装,第一项结果确认,Codex 安装好了
+E02,talking_head_ending,165.200,166.080,167.640,167.400,topRight,result,DeepSeek 已接入,第二项结果确认,国产模型 DeepSeek 接入到了 Codex
+E03,talking_head_ending,168.120,168.600,170.140,169.900,topLeft,next_step,直接完成任务,从安装切换到实际使用,用 Codex 去完成你的任务
+E04,talking_head_ending,170.400,171.140,173.720,173.440,topRight,cta,更多 Codex 教程,关注后继续看实操,关注，后面继续分享更多 Codex 使用教程
